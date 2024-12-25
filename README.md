@@ -27,7 +27,7 @@ Type the keyword included in the returned packet after successfully bypassing fo
 
 # Acknowledgments
 
-My Computer
+My Computer, ChatGPT-o1
 
 # Effective demonstration
 
