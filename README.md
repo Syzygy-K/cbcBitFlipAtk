@@ -21,7 +21,7 @@ python3 cbcBitFlipping.py \
 
 Enter the original session content at the --old parameter and the desired tampered session content at the --new parameter.
 
-If necessary, enter the parameters and values you want to attach to the -param parameter.
+If necessary, enter the parameters and values you want to attach to the --param parameter.
 
 Type the keyword included in the returned packet after successfully bypassing forensics at success-substring to make it easier for the script to identify which rollover attack was successful.
 
