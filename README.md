@@ -1,3 +1,7 @@
+# Project description
+
+This script uses byte reversal to attack websites that use AES-CBC mode to encrypt the session.
+
 # Usage
 
 Run on the command line with the necessary parameters
