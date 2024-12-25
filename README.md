@@ -21,7 +21,10 @@ If necessary, enter the parameters and values you want to attach to the -param p
 
 Type the keyword included in the returned packet after successfully bypassing forensics at success-substring to make it easier for the script to identify which rollover attack was successful.
 
-
 # Acknowledgments
 
 My Computer
+
+# Effective demonstration
+
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/24ea0366-9e65-4f89-a189-7133e885fcf8" />
